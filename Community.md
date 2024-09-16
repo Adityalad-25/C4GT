@@ -21,6 +21,24 @@
 <table>
       <tr>
         <td>Name</td>
+        <td>Sowmya Tejaswini</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Tejaswini-628</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/sowmya-tejaswini-peetani-8671b0251</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td></td>
+      </tr>
+    </table>
+<table>
+      <tr>
+        <td>Name</td>
         <td>Arnav Goel</td>
       </tr>
       <tr>
@@ -816,5 +834,96 @@
         <td>National Institute of Technology , Rourkela</td>
       </tr>
     </table>
-Footer
 
+     <table>
+      <tr>
+        <td>Name</td>
+        <td>Zeel Rohit Darji</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/zeel991</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/zeel-darji-25501927b/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Indian Institute of Information Technology Nagpur</td>
+      </tr>
+    </table>
+
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Riya Raj</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/RiyaRaj28</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>http://www.linkedin.com/in/riya-raj-799152281</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT Kurukshetra</td>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Biswaprem Sahu</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Biswapremsahu77</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>www.linkedin.com/in/biswaprem-sahu-4384702a1</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT Rourkela</td>
+      </tr>
+    </table>
+    
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Aman Khan</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/amansgith</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/amanslink/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Maharaja Surajmal Institute of Technology</td>
+  </tr>
+</table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Abhishek Yadav</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/y3abhishek</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/y1abhishek/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>SRCC</td>
+  </tr>
+</table>
